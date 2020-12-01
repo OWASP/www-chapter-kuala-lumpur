@@ -1,2 +1,2 @@
 ### Leaders
-* [Raymond Punithan Luccas](mailto:raymond.luccas@owasp.org)
+* [Raymond Punithan Luccas](mailto:raymond.luke@owasp.org)
