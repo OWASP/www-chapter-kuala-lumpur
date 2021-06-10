@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Kuala Lumper
+title: OWASP Kuala Lumpur
 tags: example-tag
 region: Asia
 
