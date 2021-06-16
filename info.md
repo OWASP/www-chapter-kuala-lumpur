@@ -1,4 +1,4 @@
-### Kuala Lumper Information
+### Kuala Lumpur Information
 * Provide Group Information
 
 ### Social Links
