@@ -1,4 +1,4 @@
 ### Leaders
 
-* [Mohd Fazli Azran Abd Malek](mailto:fazli@owasp.org)
-* [Muhamad Zulfahmy Roslan](mailto:muhamad.sulfahmy@owasp.org)
+*  [Muhamad Zulfahmy Roslan](mailto:muhamad.zulfahmy@owasp.org)
+*  [Mohd Fazli Azran](mailto:fazli@owasp.org)
