@@ -3,7 +3,7 @@
 ![OWASP Kuala Lumpur Chapter](owaspmy.jpeg
 "OWASP Kuala Lumpur Chapter")
 
-* [See More Kuala Lumpur Chapter Org Structure](https://owasp.org/www-chapter-Kuala Lumpur/#div-chapterleadership)
+* [See More Kuala Lumpur Chapter Org Structure](https://owasp.org/www-chapter-kuala-lumpur/#div-leadership)
 * [Become a member](https://owasp.org/membership/)
 * [Support the chapter](https://owasp.org/donate/)
 * [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
