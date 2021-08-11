@@ -1,6 +1,6 @@
 ---
-title: chapterleadership
-displaytext: Chapter Leadership
+title: leadership
+displaytext: Leadership
 layout: col-sidebar
 tab: true
 order: 4
@@ -8,7 +8,7 @@ tags: Kuala Lumpur
 
 ---
 
-### Chapter Leadership
+### Leadership
 
 ------------------
 The chapter leadership board is as follows:
