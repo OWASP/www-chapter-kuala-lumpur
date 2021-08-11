@@ -13,7 +13,7 @@ country: Malaysia
 ## Meetup
 ## Meeting Schedule
 
-[Meetings are organized via meetup](https://www.meetup.com/OWASP-Kuala Lumpur-Chapter/)
+[Meetings are organized via meetup]9https://www.meetup.com/owasp-kuala-lumpur/)
 
 ### Check our Upcoming Meetup Events:
 
