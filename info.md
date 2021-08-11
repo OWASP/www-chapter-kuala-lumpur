@@ -17,4 +17,4 @@
 [OWASP Kuala Lumpur YouTube's Official Channel](https://www.youtube.com/channel/)<br>
 [Join Our Whatsapp Group](https://chat.whatsapp.com/invite/)<br>
 [Our Website](http://www.OWASP.my)<br>
-[Meetup](https://www.meetup.com/OWASP-Kuala Lumpur-Chapter/)<br>
+[Meetup](https://www.meetup.com/owasp-kuala-lumpur/)<br>
