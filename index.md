@@ -29,26 +29,11 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 
 ## Project Volunteering
 
-OWASP Juice Shop UI v2.21.1 available in Indonesian language\! 🇮🇩
-(Preview: [OWASP Juice Shop](http://juice-shop-staging.herokuapp.com))
-download
-<https://github.com/bkimminich/juice-shop/releases/tag/v2.21.1>
+We are currently open to any OWASP Kuala Lumpur members to submit a project to be volunteered.
+
 
 ## Project On Progress
 
 Here the lists Project have been submit by OWASP Kuala Lumpur Chapter
 Projects Members
 OWASP Kuala Lumpur Projects
-
-### 2017
-
-[OWASP SecureTea Project](https://www.owasp.org/www-project-securetea)
-
-### 2019
-
-[Risk Assessment Framework](https://github.com/OWASP/RiskAssessmentFramework)
-
-### 2020
-
-[Python Goat / Pygoat](https://github.com/adeyosemanputra/pygoat)
- 
