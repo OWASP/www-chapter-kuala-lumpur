@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Jakarta
+title: OWASP Kuala Lumpur
 tags: example-tag
 level: 0
 
@@ -15,11 +15,11 @@ region: Asia/Pacific
 `  united we stand divided we fall `
 `  OWASP Indonesia`
 
-OWASP Indonesia now officially has meetup in jakarta and yogyakarta.
+OWASP Indonesia now officially has meetup in Kuala Lumpur and yogyakarta.
 Yogyakarta is very special for owasp indonesia. We are non-profit
 organization. We are pleasure and welcome to all Indonesian to join us
-and share the knowledge, skill, idea and related to make OWASP Jakarta
-Project are benefit to everybody. OWASP Jakarta Project as well are the
+and share the knowledge, skill, idea and related to make OWASP Kuala Lumpur
+Project are benefit to everybody. OWASP Kuala Lumpur Project as well are the
 pioneer project for Web Security Application. Any private sector want to
 contribute and sponsor are welcome. Want to talk at Our Chapter please
 email us :indonesia2018@owasp.org
@@ -42,12 +42,12 @@ Please Donate Our Chapter
 
 ![<File:Mail-50%25smaller.jpeg>](Mail-50%25smaller.jpeg
 "File:Mail-50%25smaller.jpeg") \[
-<http://lists.owasp.org/mailman/listinfo/owasp-jakarta> join our milis\]
+<http://lists.owasp.org/mailman/listinfo/owasp-Kuala Lumpur> join our milis\]
 
 For all new members and existing member please free to contribute to
-OWASP Jakarta Chapter and if you are commitment to help OWASP Jakarta
+OWASP Kuala Lumpur Chapter and if you are commitment to help OWASP Kuala Lumpur
 please subscribe OWASP Membership for individual. For Corporate sponsor
-OWASP Jakarta please to contact [OWASP
+OWASP Kuala Lumpur please to contact [OWASP
 Admin](mailto:ade.putra@owasp.org). We still open Recruitment to join
 with us. if you interested feel free for contact me.
 We are welcome to join our conversation. If any query don't hesitate to
@@ -55,7 +55,7 @@ contact [OWASP Admin](mailto:ade.putra@owasp.org). Everyone is welcome
 to join us at our chapter meetings.
 
 **NOTE: OWASP now promote for who want to become Official Members for
-Jakarta Chapter. You can get special rate and discount and get email
+Kuala Lumpur Chapter. You can get special rate and discount and get email
 @owasp.org with 25GB space. Please register at here as
 individual([Memberships](https://www.owasp.org/index.php/Membership))
 and to see the example how to
@@ -116,7 +116,7 @@ Taiwan International Information Security Organization Summit 2017
 TAIWAN 2017](http://2017.twcsa.org/OWASP2017/speakers.html#spkr_owasp_keynote01)
 11 - 13 July 2017
 
-OWASP Summit 2017 London, England \[Participants from OWASP Jakarta
+OWASP Summit 2017 London, England \[Participants from OWASP Kuala Lumpur
 Chapter is [Ade
 Yoseman](https://owaspsummit.org/Participants/remote/Ade-Yoseman-Putra.html),
 [Petty
@@ -146,9 +146,9 @@ download
 
 ## Project On Progress
 
-Here the lists Project have been submit by OWASP JAKARTA Chapter
+Here the lists Project have been submit by OWASP Kuala Lumpur Chapter
 Projects Members
-OWASP Jakarta Projects
+OWASP Kuala Lumpur Projects
 
 ### 2017
 
@@ -209,13 +209,13 @@ We Are Currently seeking venue and sponsorship for owasp monthly meetup.
 if your company interested support us please email us :
 indonesia2018@owasp.org
 Want to talk at Our Chapter please email us :indonesia2018@owasp.org
-**OWASP Jakarta Night Q4 2018 @Bukalapak.com**
+**OWASP Kuala Lumpur Night Q4 2018 @Bukalapak.com**
 
 When: 28th November 2018
 From 17:00 pm - 22:00 pm
 venue :
 Bukalapak Engineering Office, Jalan Ampera Raya, RT.5/RW.10, Ragunan,
-South Jakarta City, Jakarta Indonesia
+South Kuala Lumpur City, Kuala Lumpur Indonesia
 Sesi ini akan mendiskusikan tentang :
 1\. Keynote speech by Badan Siber Sandi Negara / BSSN (Tbc)
 2\. Security Championing by Vandy Putrandika
@@ -273,7 +273,7 @@ Topic :
 Indonesia
 3\. Master of Electrical Engineering (ICT Security) at University of
 Mercu Buana
-4\. Founder Cyber Security Division at Computer Student Club of Jakarta
+4\. Founder Cyber Security Division at Computer Student Club of Kuala Lumpur
 State Polytechnic
 **Rohit Parab
 **
@@ -296,14 +296,14 @@ future.
 
 ## Past Meetup
 
-**OWASP JAKARTA NIGHT Q4 2018
+**OWASP Kuala Lumpur NIGHT Q4 2018
 **
 
 When: 22th October 2018
 From 17:00 pm - 22:00 pm
 venue :
 Plaza Mandiri Auditorium lantai 3
-Jl jendral gatot subroto Kav. 36-38 Jakarta 12190, Indonesia
+Jl jendral gatot subroto Kav. 36-38 Kuala Lumpur 12190, Indonesia
 This Meetup provide free drink & food
 Sponsored by Bank Mandiri
 **Talk**
@@ -409,7 +409,7 @@ professionals in the security industry. He is usually seen
 speaking/training in conferences like Blackhat, OWASP AppSec, DevSecCon,
 PyCon, NullCon, All Day DevOps, Null and OWASP chapters.
 
-**OWASP JAKARTA NIGHT Q3 2018
+**OWASP Kuala Lumpur NIGHT Q3 2018
 ** Sesi ini akan mendiskusikan tentang :
 *' Web Application by Design with OWASP*'
 Pembicara
@@ -469,8 +469,8 @@ HERE](https://www.meetup.com/meetup-group-XxqLdaeY/events/254502146/?_xtd=gatlbW
 
 venue :
 Faspay Working Space
-Jakarta Pusat
-**OWASP Jakarta Night \#2**
+Kuala Lumpur Pusat
+**OWASP Kuala Lumpur Night \#2**
 
 When
 19:00 - 22:00
@@ -479,9 +479,9 @@ Where
 Venue:
 Marque at Cyber 2 Tower,
 Jl. H. R. Rasuna Said Blok X-5 Cyber 2 Tower 17th Floor, RT.7/RW.2,
-Kuningan Timur, Jakarta, Kota Jakarta Selatan, 12950, Indonesia
+Kuningan Timur, Kuala Lumpur, Kota Kuala Lumpur Selatan, 12950, Indonesia
 [Registration in
-here](https://www.eventbrite.com/e/owasp-jakarta-night-2-tickets-48230657194)
+here](https://www.eventbrite.com/e/owasp-Kuala Lumpur-night-2-tickets-48230657194)
 • Event Program:
 18.00p.m - 19.00p.m - Arrival Participant & Registration
 19:00 pm – 19:15 p.m - Speech by OWASP Indonesia Chapter Leader , Ade
@@ -490,7 +490,7 @@ Yoseman Putra
 Leader by Suman Sourav
 19.30 p.m - 20.30 p.m - Speech including Q & A by David Holmes
 20.30 p.m - 21.30 p.m - Speech including Q & A by Harley Davidson Karel
-([PDF](/www-pdf-archive/Owasp_Jakarta_Night_-2.pdf ))
+([PDF](/www-pdf-archive/Owasp_Kuala Lumpur_Night_-2.pdf ))
 21:30 p.m - 22.00 pm - photo together/networking session
 Topic:
 
@@ -589,7 +589,7 @@ by Williams
 1\. Security Engineer at Bukalapak
 2\. Master of Electrical Engineering (ICT Security) at University of
 Mercu Buana
-3\. Founder Cyber Security Division at Computer Student Club of Jakarta
+3\. Founder Cyber Security Division at Computer Student Club of Kuala Lumpur
 State Polytechnic
 **Williams**
 
@@ -615,24 +615,24 @@ Register :\[closed\]
 venue :
 ![Btpn.png](Btpn.png "Btpn.png")
 Bank BTPN. Menara BTPN, 27 th floor - CBD Mega Kuningan Jl. Dr. Ide Anak
-Agung Gde Agung Kav. 5.5 – 5.6 Jakarta 12950
+Agung Gde Agung Kav. 5.5 – 5.6 Kuala Lumpur 12950
 
-OWASP Jakarta Q4 2017 Meetup
+OWASP Kuala Lumpur Q4 2017 Meetup
 ![Owaspmeetupbtpn.jpg](Owaspmeetupbtpn.jpg "Owaspmeetupbtpn.jpg")
 19:00 - 22:00
 Tue, Nov 21, 2017
 BANK BTPN
 Menara BTPN - CBD Mega Kuningan
-Jl. Dr. Ide Anak Agung Gde Agung Kav. 5.5 – 5.6 Jakarta 12950
-OWASP Jakarta Q4 2017 Meetup
+Jl. Dr. Ide Anak Agung Gde Agung Kav. 5.5 – 5.6 Kuala Lumpur 12950
+OWASP Kuala Lumpur Q4 2017 Meetup
 Menara BTPN, 27 th floor - CBD Mega Kuningan
 Jl. Dr. Ide Anak Agung Gde Agung Kav. 5.5 – 5.6
-Jakarta 12950
+Kuala Lumpur 12950
 Theme : Application Security in Owasp top 10 2017
 When :
 at Q1 21th november 2017
 From 19:00 pm - 22:00 pm
-[CLOSED](https://www.eventbrite.com/e/owasp-jakarta-q4-2017-meetup-tickets-39109060252)
+[CLOSED](https://www.eventbrite.com/e/owasp-Kuala Lumpur-q4-2017-meetup-tickets-39109060252)
 \==== Talks ====
 
   - **Secure coding practices with golang**
@@ -671,8 +671,8 @@ workshop with KSL UBL "improving Security Attack and Defense with
 OWASP"
 when : Sat, September 16, 08:00 – 15:00 pm
 Auditorium Universitas Budi Luhur, Jl. Ciledug Raya No.126, RT.1/RW.2,
-Petukangan Utara, Pesanggrahan, Kota Jakarta Selatan, Daerah Khusus
-Ibukota Jakarta 12260, Indonesia
+Petukangan Utara, Pesanggrahan, Kota Kuala Lumpur Selatan, Daerah Khusus
+Ibukota Kuala Lumpur 12260, Indonesia
 
 **OWASP Indonesia Day 2017** ![Owaspdayid1.jpeg](Owaspdayid1.jpeg
 "Owaspdayid1.jpeg")
@@ -684,18 +684,18 @@ Yogyakarta, 09 th september 2017
 if you interested sponsor our events just contact [Ade Yoseman
 Putra](mailto:ade.putra@owasp.org)
 
-**OWASP Jakarta Tech Day Meetup 2017**
-![Owaspmeetup2.jpg](Owaspmeetup2.jpg "Owaspmeetup2.jpg") OWASP Jakarta
+**OWASP Kuala Lumpur Tech Day Meetup 2017**
+![Owaspmeetup2.jpg](Owaspmeetup2.jpg "Owaspmeetup2.jpg") OWASP Kuala Lumpur
 succesfully host meetup on May 2017
 
 with Theme: "How Secure Ecommerce"
 
-Date: 14 May 2017 02 pm to 05 pm (GMT+7 Jakarta)
+Date: 14 May 2017 02 pm to 05 pm (GMT+7 Kuala Lumpur)
 
 Venue: PTC Pulogadung Trade Centre Ballroom 2nd Floor
 
-Jalan Raya Bekasi, RW.3, Rw. Terate, Cakung, Kota Jakarta Timur, DKI
-Jakarta 13920
+Jalan Raya Bekasi, RW.3, Rw. Terate, Cakung, Kota Kuala Lumpur Timur, DKI
+Kuala Lumpur 13920
 
 Google Maps :
 
@@ -719,7 +719,7 @@ Google Maps :
     ([PDF](/www-pdf-archive/OWASP_presentation_jkt2017.pdf ))
   - *' Hacking as a Livestyle*'
     Matias Prasodjo(Dracos)
-    ([PDF](/www-pdf-archive/Hacking_Live_Style_-_OWASP_Jakarta.pdf ))
+    ([PDF](/www-pdf-archive/Hacking_Live_Style_-_OWASP_Kuala Lumpur.pdf ))
 
 #### Speakers
 
@@ -733,7 +733,7 @@ Faculty of Engineering and IT at Swiss German University. He was first
 winner as a team at Cyber Defense Competition, Ministry of Defense of
 Indonesia on 2013
 
-(Jakarta) and 2014 (Surabaya). He has experience as security penetration
+(Kuala Lumpur) and 2014 (Surabaya). He has experience as security penetration
 tester for various industry such as telecommunication, banking, finance,
 and government for more than 7 years. His interests includes network and
 cloud security
@@ -777,7 +777,7 @@ th, 2017](https://www.owasp.org/index.php/OWASP_Indonesia_Meetup_I_2017)
 OWASP Indonesia adalah sebuah salah satu cabang dari Yayasan OWASP di
 belahan dunia. Yayasan OWASP adalah terbuka dan organisasi non
 profit.Kami membuka kesempatan kepada orang indonesia untuk bergabung
-serta berkontribusi pada OWASP Indonesia (Jakarta) Chapter.
+serta berkontribusi pada OWASP Indonesia (Kuala Lumpur) Chapter.
 
 Apa Yang Bisa anda kontribusi kan pada Yayasan OWASP
 
@@ -814,7 +814,7 @@ Top 10-Bahasa](https://www.owasp.org/index.php/OWASP_Top_10_2013_-_Bahasa_Indone
 | Chapter Leader / Chairman                 | The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair.                                                                                                                    | Ade Yoseman Putra                        |
 | Sponsor Coordinator                       | Serves as the primary liaison between the Chapter and all sponsors, and solicits sponsors for the Chapter meetings, happy hours, and other events.                                                                                                    | Hilman Aditya                            |
 | Speaker and Special Event Coordinator     | Seeks and schedules speakers for monthly Chapter meetings and other events.                                                                                                                                                                           | Dewo Nur Satrio                          |
-| Conference/Event/Meetup Coordinator       | Coordinates all of the efforts for the annual OWASP Indonesia Day, OWASP Jakarta Night & all OWASP Jakarta Events.                                                                                                                                    | Eka Syahfitri                            |
+| Conference/Event/Meetup Coordinator       | Coordinates all of the efforts for the annual OWASP Indonesia Day, OWASP Kuala Lumpur Night & all OWASP Kuala Lumpur Events.                                                                                                                                    | Eka Syahfitri                            |
 | PR/Marketing Coordinator/Designer Grafis  | Provides marketing of OWASP Indonesia Day and other Chapter events.                                                                                                                                                                                   | Muhamad Iqbal Dewanto                    |
 | Equipment Committee                       | Equipment Committee for OWASP Meetup                                                                                                                                                                                                                  | Bima                                     |
 | Volunteer                                 | Volunteer Lists                                                                                                                                                                                                                                       | Achmad Syafaat, Gumux Hijack, Ali Kaharu |

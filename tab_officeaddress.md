@@ -5,7 +5,7 @@ displaytext: Office Address
 layout: col-sidebar
 tab: true
 order: 5
-tags: Jakarta
+tags: Kuala Lumpur
 
 ---
 

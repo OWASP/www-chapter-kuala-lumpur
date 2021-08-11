@@ -4,16 +4,16 @@ displaytext: Meetup
 layout: col-sidebar
 tab: true
 order: 2
-tags: Jakarta
+tags: Kuala Lumpur
 altfooter: true
-meetup-group: OWASP-Jakarta-Chapter
+meetup-group: OWASP-Kuala Lumpur-Chapter
 country: Indonesia
 ---
 
 ## Meetup
 ## Meeting Schedule
 
-[Meetings are organized via meetup](https://www.meetup.com/OWASP-Jakarta-Chapter/)
+[Meetings are organized via meetup](https://www.meetup.com/OWASP-Kuala Lumpur-Chapter/)
 
 ### Check our Upcoming Meetup Events:
 

@@ -5,7 +5,7 @@ displaytext: Past Events
 layout: col-sidebar
 tab: true
 order: 1
-tags: Jakarta
+tags: Kuala Lumpur
 
 ---
 
@@ -17,29 +17,29 @@ tags: Jakarta
 ## Past Security Events
 ### 2021
 
-April 2021 Workshop OWASP Jakarta X BSSN (National Cyber Crypto Agency) : Secure Coding Practice With OWASP
+April 2021 Workshop OWASP Kuala Lumpur X BSSN (National Cyber Crypto Agency) : Secure Coding Practice With OWASP
 
 **Date**: Tue, April 27, 2021
 
-**Venue**: Aloft South Jakarta [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/photos/31406727/)
+**Venue**: Aloft South Kuala Lumpur [OWASP Kuala Lumpur Meetup.com](https://www.meetup.com/OWASP-Kuala Lumpur-Chapter/photos/31406727/)
 
 March 2021 Online Meetup: Getting API security right
 
 **Date**: Saturday, March 27, 2021
 
-**Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/276846828/)
+**Venue**: Online [OWASP Kuala Lumpur Meetup.com](https://www.meetup.com/OWASP-Kuala Lumpur-Chapter/events/276846828/)
 
 February 2021 Online Meetup: Don't feed the hippos (shut up and listen)
 
 **Date**: Saturday, February 27, 2021
 
-**Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/276243820/)
+**Venue**: Online [OWASP Kuala Lumpur Meetup.com](https://www.meetup.com/OWASP-Kuala Lumpur-Chapter/events/276243820/)
 
 January 2021 Online Meetup: Strategic Usage of OWASP SAMM and OWASP DSOMM
 
 **Date**: Saturday, January 23, 2021
 
-**Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/275425229//)
+**Venue**: Online [OWASP Kuala Lumpur Meetup.com](https://www.meetup.com/OWASP-Kuala Lumpur-Chapter/events/275425229//)
 ### 2020
 OWASP Chapter All Day 2020 - OWASP Risk Assessment Framework https://owasp.org/www-community/pages/social/chapters_all_day/schedule/
 <br>Record https://www.youtube.com/watch?v=dEYkQRyr3cA&t=148<br>
@@ -48,19 +48,19 @@ November 2020 Online Conference: Virtual OWASP AppSec Indonesia Conference 2020
 
 **Date**: Saturday, November 21, 2020
 
-**Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/273609518/)
+**Venue**: Online [OWASP Kuala Lumpur Meetup.com](https://www.meetup.com/OWASP-Kuala Lumpur-Chapter/events/273609518/)
 
 October 2020 Online Meetup: Coded World - My Cheatsheet
 
 **Date**: Wednesday, October 28, 2020
 
-**Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/274059946/)
+**Venue**: Online [OWASP Kuala Lumpur Meetup.com](https://www.meetup.com/OWASP-Kuala Lumpur-Chapter/events/274059946/)
 
 September 2020 Online Meetup: Operationalizing Threat Intelligence with Automation and Collaboration
 
 **Date**: Saturday, September 26, 2020
 
-**Venue**: Online [OWASP Jakarta Meetup.com](https://www.meetup.com/OWASP-Jakarta-Chapter/events/272946597/)
+**Venue**: Online [OWASP Kuala Lumpur Meetup.com](https://www.meetup.com/OWASP-Kuala Lumpur-Chapter/events/272946597/)
 
 ### 2019
 
@@ -103,7 +103,7 @@ Taiwan International Information Security Organization Summit 2017
 TAIWAN 2017](http://2017.twcsa.org/OWASP2017/speakers.html#spkr_owasp_keynote01)
 11 - 13 July 2017
 
-OWASP Summit 2017 London, England \[Participants from OWASP Jakarta
+OWASP Summit 2017 London, England \[Participants from OWASP Kuala Lumpur
 Chapter is [Ade
 Yoseman](https://owaspsummit.org/Participants/remote/Ade-Yoseman-Putra.html),
 [Petty
@@ -120,13 +120,13 @@ OWASP DAY KL 2016 Malaysia
 15 - 17 November 2016
 
 ### Past Meetup
-**OWASP Jakarta Night Q4 2018 @Bukalapak.com**
+**OWASP Kuala Lumpur Night Q4 2018 @Bukalapak.com**
 <br>
 When: 28th November 2018<br>
 From 17:00 pm - 22:00 pm<br>
 venue :<br>
 Bukalapak Engineering Office, Jalan Ampera Raya, RT.5/RW.10, Ragunan,
-South Jakarta City, Jakarta Indonesia<br>
+South Kuala Lumpur City, Kuala Lumpur Indonesia<br>
 Sesi ini akan mendiskusikan tentang :<br>
 1\. Security Championing by Vandy Putrandika<br>
 2\. Novice to expert in Deep Learning and why it's necessary? by rohit
@@ -180,7 +180,7 @@ Topic :<br>
 Indonesia
 3\. Master of Electrical Engineering (ICT Security) at University of
 Mercu Buana
-4\. Founder Cyber Security Division at Computer Student Club of Jakarta
+4\. Founder Cyber Security Division at Computer Student Club of Kuala Lumpur
 State Polytechnic<br>
 **Rohit Parab<br>
 **
@@ -202,14 +202,14 @@ Abstract - In brief, I will be sharing how someone can
 future.<br>
 
 
-**OWASP JAKARTA NIGHT Q4 2018
+**OWASP Kuala Lumpur NIGHT Q4 2018
 **
 
 When: 22th October 2018
 From 17:00 pm - 22:00 pm
 venue :
 Plaza Mandiri Auditorium lantai 3
-Jl jendral gatot subroto Kav. 36-38 Jakarta 12190, Indonesia
+Jl jendral gatot subroto Kav. 36-38 Kuala Lumpur 12190, Indonesia
 This Meetup provide free drink & food
 Sponsored by Bank Mandiri
 **Talk**
@@ -315,7 +315,7 @@ professionals in the security industry. He is usually seen
 speaking/training in conferences like Blackhat, OWASP AppSec, DevSecCon,
 PyCon, NullCon, All Day DevOps, Null and OWASP chapters.
 
-**OWASP JAKARTA NIGHT Q3 2018
+**OWASP Kuala Lumpur NIGHT Q3 2018
 ** Sesi ini akan mendiskusikan tentang :
 *' Web Application by Design with OWASP*'
 Pembicara
@@ -375,8 +375,8 @@ HERE](https://www.meetup.com/meetup-group-XxqLdaeY/events/254502146/?_xtd=gatlbW
 
 venue :
 Faspay Working Space
-Jakarta Pusat
-**OWASP Jakarta Night \#2**
+Kuala Lumpur Pusat
+**OWASP Kuala Lumpur Night \#2**
 
 When
 19:00 - 22:00
@@ -385,9 +385,9 @@ Where
 Venue:
 Marque at Cyber 2 Tower,
 Jl. H. R. Rasuna Said Blok X-5 Cyber 2 Tower 17th Floor, RT.7/RW.2,
-Kuningan Timur, Jakarta, Kota Jakarta Selatan, 12950, Indonesia
+Kuningan Timur, Kuala Lumpur, Kota Kuala Lumpur Selatan, 12950, Indonesia
 [Registration in
-here](https://www.eventbrite.com/e/owasp-jakarta-night-2-tickets-48230657194)
+here](https://www.eventbrite.com/e/owasp-Kuala Lumpur-night-2-tickets-48230657194)
 • Event Program:
 18.00p.m - 19.00p.m - Arrival Participant & Registration
 19:00 pm – 19:15 p.m - Speech by OWASP Indonesia Chapter Leader , Ade
@@ -396,7 +396,7 @@ Yoseman Putra
 Leader by Suman Sourav
 19.30 p.m - 20.30 p.m - Speech including Q & A by David Holmes
 20.30 p.m - 21.30 p.m - Speech including Q & A by Harley Davidson Karel
-([PDF](/www-pdf-archive/Owasp_Jakarta_Night_-2.pdf ))
+([PDF](/www-pdf-archive/Owasp_Kuala Lumpur_Night_-2.pdf ))
 21:30 p.m - 22.00 pm - photo together/networking session
 Topic:
 
@@ -495,7 +495,7 @@ by Williams
 1\. Security Engineer at Bukalapak
 2\. Master of Electrical Engineering (ICT Security) at University of
 Mercu Buana
-3\. Founder Cyber Security Division at Computer Student Club of Jakarta
+3\. Founder Cyber Security Division at Computer Student Club of Kuala Lumpur
 State Polytechnic
 **Williams**
 
@@ -521,24 +521,24 @@ Register :\[closed\]
 venue :
 ![Btpn.png](Btpn.png "Btpn.png")
 Bank BTPN. Menara BTPN, 27 th floor - CBD Mega Kuningan Jl. Dr. Ide Anak
-Agung Gde Agung Kav. 5.5 – 5.6 Jakarta 12950
+Agung Gde Agung Kav. 5.5 – 5.6 Kuala Lumpur 12950
 
-OWASP Jakarta Q4 2017 Meetup
+OWASP Kuala Lumpur Q4 2017 Meetup
 ![Owaspmeetupbtpn.jpg](Owaspmeetupbtpn.jpg "Owaspmeetupbtpn.jpg")
 19:00 - 22:00
 Tue, Nov 21, 2017
 BANK BTPN
 Menara BTPN - CBD Mega Kuningan
-Jl. Dr. Ide Anak Agung Gde Agung Kav. 5.5 – 5.6 Jakarta 12950
-OWASP Jakarta Q4 2017 Meetup
+Jl. Dr. Ide Anak Agung Gde Agung Kav. 5.5 – 5.6 Kuala Lumpur 12950
+OWASP Kuala Lumpur Q4 2017 Meetup
 Menara BTPN, 27 th floor - CBD Mega Kuningan
 Jl. Dr. Ide Anak Agung Gde Agung Kav. 5.5 – 5.6
-Jakarta 12950
+Kuala Lumpur 12950
 Theme : Application Security in Owasp top 10 2017
 When :
 at Q1 21th november 2017
 From 19:00 pm - 22:00 pm
-[CLOSED](https://www.eventbrite.com/e/owasp-jakarta-q4-2017-meetup-tickets-39109060252)
+[CLOSED](https://www.eventbrite.com/e/owasp-Kuala Lumpur-q4-2017-meetup-tickets-39109060252)
 \==== Talks ====
 **Secure coding practices with golang**
 ([PDF](/www-pdf-archive/Owasp-171123063052.pdf ))
@@ -575,8 +575,8 @@ workshop with KSL UBL "improving Security Attack and Defense with
 OWASP"
 when : Sat, September 16, 08:00 – 15:00 pm
 Auditorium Universitas Budi Luhur, Jl. Ciledug Raya No.126, RT.1/RW.2,
-Petukangan Utara, Pesanggrahan, Kota Jakarta Selatan, Daerah Khusus
-Ibukota Jakarta 12260, Indonesia
+Petukangan Utara, Pesanggrahan, Kota Kuala Lumpur Selatan, Daerah Khusus
+Ibukota Kuala Lumpur 12260, Indonesia
 
 **OWASP Indonesia Day 2017** ![Owaspdayid1.jpeg](Owaspdayid1.jpeg
 "Owaspdayid1.jpeg")
@@ -588,18 +588,18 @@ Yogyakarta, 09 th september 2017
 if you interested sponsor our events just contact [Ade Yoseman
 Putra](mailto:ade.putra@owasp.org)
 
-**OWASP Jakarta Tech Day Meetup 2017**
-![Owaspmeetup2.jpg](Owaspmeetup2.jpg "Owaspmeetup2.jpg") OWASP Jakarta
+**OWASP Kuala Lumpur Tech Day Meetup 2017**
+![Owaspmeetup2.jpg](Owaspmeetup2.jpg "Owaspmeetup2.jpg") OWASP Kuala Lumpur
 succesfully host meetup on May 2017
 
 with Theme: "How Secure Ecommerce"
 
-Date: 14 May 2017 02 pm to 05 pm (GMT+7 Jakarta)
+Date: 14 May 2017 02 pm to 05 pm (GMT+7 Kuala Lumpur)
 
 Venue: PTC Pulogadung Trade Centre Ballroom 2nd Floor
 
-Jalan Raya Bekasi, RW.3, Rw. Terate, Cakung, Kota Jakarta Timur, DKI
-Jakarta 13920
+Jalan Raya Bekasi, RW.3, Rw. Terate, Cakung, Kota Kuala Lumpur Timur, DKI
+Kuala Lumpur 13920
 
 Google Maps :
 
@@ -623,7 +623,7 @@ Google Maps :
     ([PDF](/www-pdf-archive/OWASP_presentation_jkt2017.pdf ))
   - *' Hacking as a Livestyle*'
     Matias Prasodjo(Dracos)
-    ([PDF](/www-pdf-archive/Hacking_Live_Style_-_OWASP_Jakarta.pdf ))
+    ([PDF](/www-pdf-archive/Hacking_Live_Style_-_OWASP_Kuala Lumpur.pdf ))
 
 #### Speakers
 
@@ -637,7 +637,7 @@ Faculty of Engineering and IT at Swiss German University. He was first
 winner as a team at Cyber Defense Competition, Ministry of Defense of
 Indonesia on 2013
 
-(Jakarta) and 2014 (Surabaya). He has experience as security penetration
+(Kuala Lumpur) and 2014 (Surabaya). He has experience as security penetration
 tester for various industry such as telecommunication, banking, finance,
 and government for more than 7 years. His interests includes network and
 cloud security
