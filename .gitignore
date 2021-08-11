@@ -1,4 +1,4 @@
-/Gemfile
-/Gemfile.lock
-/favicon.ico
+__pycache__
+env
+.vscode
 _site/
