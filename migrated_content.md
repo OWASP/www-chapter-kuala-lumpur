@@ -9,8 +9,7 @@ region: Asia/Pacific
 
 
 ---
-<paypal>Malaysia</paypal> ![<File:Owaspmy.jpg>](Owaspmy.jpg
-"File:Owaspmy.jpg")
+<paypal>Malaysia</paypal>
 
 ***OWASP Malaysia & MySecurity Community***
 
