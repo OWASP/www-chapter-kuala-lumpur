@@ -1,7 +1,7 @@
 ---
 
 title: supporter
-displaytext: Suporter
+displaytext: Supporter
 layout: col-sidebar
 tab: true
 order: 7
