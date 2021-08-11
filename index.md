@@ -34,6 +34,6 @@ We are currently open to any OWASP Kuala Lumpur members to submit a project to b
 
 ## Project On Progress
 
-Here the lists Project have been submit by OWASP Kuala Lumpur Chapter
-Projects Members
-OWASP Kuala Lumpur Projects
+Here are the lists of projects that OWASP Kuala Lumpur Chapter Project members have submitted:- <br />
+
+1. TBA
