@@ -17,4 +17,4 @@
 [Follow Our Facebook Group](http://www.facebook.com/groups/owaspmy)<br>
 [Our Website](http://www.OWASP.my)<br>
 [Join Our Telegram](https://t.me/joinchat/)<br>
-[Meetup](https://www.meetup.com/OWASP-Kuala Lumpur-Chapter/)</br>
+[Meetup](https://www.meetup.com/OWASP-Kuala Lumpur-Chapter/)<\br>
