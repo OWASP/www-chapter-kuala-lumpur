@@ -54,12 +54,14 @@ The chapter leadership board is as follows:
     <td>Advisory Board Members</td>
     <td>Made up of previous Chapter leaders who provide mentoring, coaching, and assistance to the board and contribute to its success.</td>
     <td>
-      Vacant <br />
-      Vacant <br />
-      Vacant <br />
-      Vacant <br />
-      Vacant <br />
-      Vacant <br />
+      <ul>
+        <li>Vacant</li>
+        <li>Vacant</li>
+        <li>Vacant</li>
+        <li>Vacant</li>
+        <li>Vacant</li>
+        <li>Vacant</li>
+      </ul>
     </td>
   </tr>
 </table>
