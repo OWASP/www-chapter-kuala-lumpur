@@ -9,16 +9,16 @@ tags: Kuala Lumpur
 
 ---
 
-# News
+# Past Events
 
-For all new members and existing member please free to contribute to
-OWASP Malaysia Chapter and if you are commitment to help OWASP Malaysia
-please subscribe OWASP Membership for individual. For Corporate sponsor
-OWASP Malaysia please contact OWASP Admin.
+For all new members and existing members, please be free to contribute to OWASP Kuala
+Lumpur Chapter. If you are committed to helping OWASP Kuala Lumpur Chapter, please
+subscribe to OWASP Membership for the individual. For Corporate sponsor OWASP Kuala
+Lumpur, don't hesitate to get in touch with OWASP Admin.
 
-We are welcome to join our conversation. If any query don't hesitate to
-contact [OWASP Admin](mailto:admin@owasp.my). Everyone is welcome to
-join us at our chapter meetings.
+We are welcome you to join our conversation. If you have any queries, don't hesitate to
+contact [OWASP Admin](mailto:admin@owasp.my). Everyone is welcome to join us at our
+chapter meetings.
 
 Related Security Events for this years.
 
