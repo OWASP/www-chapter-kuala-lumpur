@@ -11,6 +11,6 @@ tags: Kuala Lumpur
 
 ## Base Camp
 
-<br>Ruko Graha Kartika Pratama J/1
-<br>Jl. Tegar Beriman, Cibinong, Bogor 16921
-<br> mobile phone : 085693993527
+<br> OWASP KL Club
+<br>Kuala Lumpur
+<br> mobile phone : 0108111181
