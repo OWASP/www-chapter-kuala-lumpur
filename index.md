@@ -23,7 +23,7 @@ OWASP Kuala Lumpur now officially has a monthly meetup. We are a non-profit orga
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve software security. Our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
 
 ## Speakers
-- Everyone is welcome to join us at our chapter meetings. Please, See [Meeting Schedule](https://www.meetup.com/OWASP-Kuala Lumpur-Chapter/)
+- Everyone is welcome to join us at our chapter meetings. Please, See [Meeting Schedule](https://www.meetup.com/owasp-kuala-lumpur/)
 
 {% include chapter_events.html group=page.meetup-group %}
 
