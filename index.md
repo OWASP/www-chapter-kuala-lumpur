@@ -6,16 +6,16 @@ tags: OWASP Kuala Lumpur
 level: 0
 region: Asia
 meetup-group: OWASP-Kuala Lumpur-Chapter
-country: Indonesia
+country: Malaysia
 postal-code: 
 
 ---
 
-Bhinneka Tunggal Ika united we stand divided we fall by OWASP Kuala Lumpur
+Bersatu kita teguh Bercerai kita roboh by OWASP Kuala Lumpur
 
 ## Welcome
 OWASP Kuala Lumpur now officially has monthly meetup. We are non-profit organization. We are pleasure and welcome to all Indonesian to join us and share the knowledge, skill, idea and related to make OWASP Kuala Lumpur Project are benefit to everybody. OWASP Kuala Lumpur Project as well are the pioneer project for Web Security Application.
-Any private sector want to contribute and sponsor are welcome. Want to talk at Our Chapter please reach out to [Ade Yoseman](mailto:ade.putra@owasp.org) 
+Any private sector want to contribute and sponsor are welcome. Want to talk at Our Chapter please reach out to [Mohd Fazli Azran](mailto:afazli@owasp.org) 
 #### OWASP Kuala Lumpur is proudly celebrating OWASP's 20th Anniversary!
 [![OWASP 20th Anniversary Image](assets/images/OWASP%2020th%20Anniversary.jpeg)](https://20thanniversary.owasp.org/)
 
