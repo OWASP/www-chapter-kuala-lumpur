@@ -14,4 +14,4 @@ tags: Kuala Lumpur
 We Cooperation with following University<br>
 1. University Kuala Lumpur (https://www.unikl.edu.my/) 
 2. University Teknologi Malaysia (https://www.utm.my/)
-3. Politeknik Mersing (http://www.pmj.edu.m/)
+3. Politeknik Mersing (http://www.pmj.edu.my/)
