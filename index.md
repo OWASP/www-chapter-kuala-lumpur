@@ -7,7 +7,6 @@ level: 0
 region: Asia
 meetup-group: OWASP-Kuala Lumpur-Chapter
 country: Malaysia
-postal-code: 
 
 ---
 

@@ -1,19 +1,18 @@
 ---
 
 title: sponsor
-displaytext: Chapter Sponsor
+displaytext: Sponsor
 layout: col-sidebar
 tab: true
-order: 6
+order: 5
 tags: Kuala Lumpur
 
 ---
 
 ## AppSec Malaysia Sponsorships
 
-[AppSec Malaysia detailed sponsorship tiers and options can be found in Our Conference Website](https://appsec.owasp.my)
-or Donwload the [Virtual Appsec Malauysia sponsorship](
-https://github.com/OWASP/www-chapter-Kuala Lumpur/blob/master/AppsecMalaysia.pdf)
+[AppSec Malaysia detailed sponsorship tiers and options can be found in Our Conference Website](https://globalappsec.org/)
+or Download the [Virtual AppSec Malaysia sponsorship](https://github.com/OWASP/www-chapter-kuala-lumpur/blob/master/AppsecMalaysia.pdf)
 
 ## Local sponsors
 

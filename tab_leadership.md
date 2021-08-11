@@ -4,7 +4,7 @@ title: leadership
 displaytext: Leadership
 layout: col-sidebar
 tab: true
-order: 4
+order: 3
 tags: Kuala Lumpur
 
 ---
