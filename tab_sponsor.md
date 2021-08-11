@@ -9,11 +9,11 @@ tags: Kuala Lumpur
 
 ---
 
-## AppSec Indonesia 2020 Sponsorships
+## AppSec Malaysia Sponsorships
 
-[AppSec Indonesia 2020 detailed sponsorship tiers and options can be found in Our Conference Website](https://appsec2020.owasp.or.id)
-or Donwload the [virtual appsec Indonesia sponsorship 2020](
-https://github.com/OWASP/www-chapter-Kuala Lumpur/blob/master/AppSec%20Indonesia%202020%20sponsorships.pdf)
+[AppSec Malaysia detailed sponsorship tiers and options can be found in Our Conference Website](https://appsec.owasp.my)
+or Donwload the [Virtual Appsec Malauysia sponsorship](
+https://github.com/OWASP/www-chapter-Kuala Lumpur/blob/master/AppsecMalaysia.pdf)
 
 ## Local sponsors
 
