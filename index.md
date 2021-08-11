@@ -11,7 +11,7 @@ postal-code:
 
 ---
 
-Bersatu kita teguh Bercerai kita roboh by OWASP Kuala Lumpur
+Bersatu Kita Teguh Bercerai Kita Roboh by OWASP Kuala Lumpur
 
 ## Welcome
 OWASP Kuala Lumpur now officially has monthly meetup. We are non-profit organization. We are pleasure and welcome to all Indonesian to join us and share the knowledge, skill, idea and related to make OWASP Kuala Lumpur Project are benefit to everybody. OWASP Kuala Lumpur Project as well are the pioneer project for Web Security Application.
