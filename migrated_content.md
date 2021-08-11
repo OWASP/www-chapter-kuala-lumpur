@@ -5,7 +5,7 @@ title: OWASP Kuala Lumpur
 tags: example-tag
 level: 0
 
-region: Asia/Pacific
+region: Asia/Kuala_Lumpur
 
 ---
 
