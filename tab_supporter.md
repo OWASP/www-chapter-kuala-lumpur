@@ -1,15 +1,15 @@
 ---
 
-title: academicsupporter
-displaytext: Academic Suporter
+title: supporter
+displaytext: Suporter
 layout: col-sidebar
 tab: true
-order: 8
+order: 7
 tags: Kuala Lumpur
 
 ---
 
-## Academic Supporter
+## Supporter
 
 We Cooperation with following University<br>
 1. [Universiti Kuala Lumpur](https://www.unikl.edu.my/) 
