@@ -19,13 +19,13 @@ The chapter leadership board is as follows:
       <th>Person(s)</th></tr>
   <tr><td>Chairman</td>
       <td>The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter board chair.</td>
-      <td>Ade Yoseman Putra</td></tr>
+      <td>Mohd Fazli Azran</td></tr>
       <tr><td>Secretary</td>
       <td>Help Chairman, Seeks and schedules speakers for Chapter meetings and other events.Serves as Secretary</td>
-      <td>Vina Panduwinata<br/></td></tr>
+      <td> Vacant<br/></td></tr>
     <tr><td>Vice Chairman</td>
       <td>Help Chairman, Coordinates all of the Chapter-sponsored educational offerings, to include the weekly Study Group and OWASP training.Serves as Chapter board Vice Chair</td>
-      <td>Achmad Syafaat</td></tr>
+      <td>Vacant</td></tr>
     <tr><td>PR/Marketing Coordinator</td>
       <td>Provides marketing of Chapter events.</td>
       <td>Vacant</td></tr>
@@ -37,5 +37,5 @@ The chapter leadership board is as follows:
       <td>All Chapter Leadership </td></tr>
     <tr><td>Advisory Board Members</td>
       <td>Made up of previous Chapter leaders who provide mentoring, coaching, and assistance to the board and contribute to the Chapter’s success.</td>
-      <td> Indra Gunawan  <br/>  RB. Sundoko Haryo Permadi <br/>Achmad Syafaat  <br/>  Gumux Hijack  <br/>  Ali Kaharu  <br/>  Bima  <br/></td></tr>
+      <td> Vacant  <br/>  Vacant <br/>Vacant  <br/>  Vacant  <br/> Vacant  <br/> Vacant  <br/></td></tr>
 </table>
