@@ -7,7 +7,7 @@ order: 2
 tags: Kuala Lumpur
 altfooter: true
 meetup-group: OWASP-Kuala Lumpur-Chapter
-country: Indonesia
+country: Malaysia
 ---
 
 ## Meetup
