@@ -1,6 +1,6 @@
 ### Chapter Information
 
-![OWASP Kuala Lumpur Chapter](owaspjkt.png
+![OWASP Kuala Lumpur Chapter](owaspmy.jpeg
 "OWASP Kuala Lumpur Chapter")
 
 * [See More Kuala Lumpur Chapter Org Structure](https://owasp.org/www-chapter-Kuala Lumpur/#div-chapterleadership)
