@@ -25,30 +25,33 @@ The chapter leadership board is as follows:
     <td>The central point of contact for the Chapter and responsible to the OWASP Board. Serves as the Chapter board chair.</td>
     <td>Mohd Fazli Azran</td>
   </tr>
+    <tr>
+    <td>Vice Chairman</td>
+    <td>Help Chairman, coordinates all of the Chapter-sponsored educational offerings, including the weekly Study Group and OWASP training. Serves as Chapter board Vice Chair.</td>
+    <td>Ahmad Aizuddin Aizat Tajul Arif</td>
+  </tr>
   <tr>
     <td>Secretary</td>
     <td>Help Chairman, seeks and schedules speakers for Chapter meetings and other events. Serves as Secretary.</td>
     <td>Vacant</td>
   </tr>
   <tr>
-    <td>Vice Chairman</td>
-    <td>Help Chairman, coordinates all of the Chapter-sponsored educational offerings, including the weekly Study Group and OWASP training. Serves as Chapter board Vice Chair.</td>
-    <td>Vacant</td>
-  </tr>
-  <tr>
     <td>PR/Marketing Coordinator</td>
     <td>Provides marketing of the Chapter events.</td>
-    <td>Vacant</td>
+    <td>Zulfahmy</td>
   </tr>
   <tr>
     <td>Membership and Project Coordinator</td>
     <td>Coordinates activities to grow individual and corporate memberships. Acts as project manager for events, tracking assigned tasks and reporting progress.</td>
-    <td>Vacant</td>
+    <td>Teng</td>
   </tr>
   <tr>
     <td>Events Committee</td>
     <td>Responsible for coordinating aspects of events.</td>
-    <td>All Chapter Leadership</td>
+    <td><ul>
+        <li>Neo</li>
+        <li>All Leadership Members</li>
+      </ul></td>
   </tr>
   <tr>
     <td>Advisory Board Members</td>
