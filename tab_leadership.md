@@ -38,7 +38,7 @@ The chapter leadership board is as follows:
   <tr>
     <td>PR/Marketing Coordinator</td>
     <td>Provides marketing of the Chapter events.</td>
-    <td>Zulfahmy</td>
+    <td>Mohammad Zulfahmy</td>
   </tr>
   <tr>
     <td>Membership and Project Coordinator</td>
