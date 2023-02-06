@@ -1,7 +1,7 @@
 ---
 
-title: members
-displaytext: Members
+title: tab_example
+displaytext: tab_example
 layout: col-sidebar
 tab: true
 order: 7
