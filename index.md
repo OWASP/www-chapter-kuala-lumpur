@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Kuala Lumpur
-tags: Kuala lumpur
+tags: Malaysia
 region: Asia
 meetup-group:
 

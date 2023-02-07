@@ -13,6 +13,5 @@
 [Join Our Telegram](https://t.me/joinchat/PHrO45cMnXqEKH2c)<br>
 [Follow Our Twitter](http://twitter.com/owaspmy)<br>
 [OWASP Kuala Lumpur YouTube's Official Channel](https://www.youtube.com/channel/)<br>
-[Join Our Whatsapp Group](https://chat.whatsapp.com/invite/)<br>
-[Our Website](http://www.OWASP.my)<br>
+[Join Our Whatsapp Group](https://chat.whatsapp.com/KAdpus4R0pb895ulC2jo8p)<br>
 [Meetup](https://www.meetup.com/owasp-kuala-lumpur/)<br>
