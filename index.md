@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Kuala Lumpur
-tags: Kuala lumpur, 
+tags: Kuala lumpur
 region: Asia
 meetup-group:
 
@@ -27,7 +27,9 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-"Welcome to the world of Cyber Security! As the reliance on technology continues to grow, so does the importance of keeping our digital assets and information secure. Here, we are dedicated to educating and raising awareness about the latest threats, techniques and best practices to safeguard against cyber attacks. Let's work together to secure our digital world!"
+"Welcome to the OWASP Kuala Lumpur Chapter! As the reliance on technology continues to grow, so does the importance of keeping our digital assets and information secure. Here, we are dedicated to educating and raising awareness about the latest threats, techniques and best practices to safeguard against cyber attacks. Let's work together to secure our digital world!"
+
+We're excited to have you join our community of security professionals and enthusiasts dedicated to improving the security of software and web applications. Let's work together to make the web a safer place!"
 
 OWASP Kuala Lumpur Chapter is dedicated to bring the change and promote Community Culture here.
 
