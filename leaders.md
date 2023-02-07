@@ -1,2 +1,3 @@
 ### Leaders
-* [Leader's first and surname](mailto:)
+* [Milan Singh Thakur](mailto:milan@owasp.org)
+* [Rahul Lohar](mailto:rahulin2005@gmail.com)
