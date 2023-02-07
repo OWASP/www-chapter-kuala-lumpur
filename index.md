@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Kuala Lumpur
-tags: example-tag
+tags: Kuala lumpur, 
 region: Asia
 meetup-group:
 
@@ -27,7 +27,9 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-Include some information here about your chapter
+"Welcome to the world of Cyber Security! As the reliance on technology continues to grow, so does the importance of keeping our digital assets and information secure. Here, we are dedicated to educating and raising awareness about the latest threats, techniques and best practices to safeguard against cyber attacks. Let's work together to secure our digital world!"
+
+OWASP Kuala Lumpur Chapter is dedicated to bring the change and promote Community Culture here.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
