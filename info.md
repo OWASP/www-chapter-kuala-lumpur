@@ -10,8 +10,6 @@
 * [OWASP Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
 
 ## Stay In Contact
-[Follow Our Facebook Fans Page](http://www.facebook.com/OWASP.Malaysia)<br>
-[Follow Our Facebook Group](http://www.facebook.com/groups/owaspmy)<br>
 [Join Our Telegram](https://t.me/joinchat/PHrO45cMnXqEKH2c)<br>
 [Follow Our Twitter](http://twitter.com/owaspmy)<br>
 [OWASP Kuala Lumpur YouTube's Official Channel](https://www.youtube.com/channel/)<br>
