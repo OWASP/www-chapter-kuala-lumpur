@@ -10,7 +10,5 @@
 * [OWASP Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
 
 ## Stay In Contact
-
 [Join Our Whatsapp Group](https://chat.whatsapp.com/KAdpus4R0pb895ulC2jo8p)<br>
-
 [Meetup](https://www.meetup.com/owasp-kuala-lumpur/)<br>
