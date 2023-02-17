@@ -11,6 +11,6 @@
 
 ## Stay In Contact
 
-[Join Our Whatsapp Group](‎Open this link to join my WhatsApp Group: https://chat.whatsapp.com/KAdpus4R0pb895ulC2jo8p)<br>
+[Join Our Whatsapp Group](https://chat.whatsapp.com/KAdpus4R0pb895ulC2jo8p)<br>
 
 [Meetup](https://www.meetup.com/owasp-kuala-lumpur/)<br>
