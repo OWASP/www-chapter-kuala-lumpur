@@ -24,6 +24,8 @@ We encourage you to participate in our activities, share your expertise, and eng
 <h2><i>We are looking forward to meeting you at our next event</i></h2>
 
 
+[Join Our Whatsapp Group](https://chat.whatsapp.com/KAdpus4R0pb895ulC2jo8p) to know about more upcoming events and instant updates.
+
  <br>
 The important values that are crucial in building a Cyber Security Community are:<br><br>
 1.	<b>Collaboration:</b> Cyber security threats are complex and constantly evolving. Therefore, a collaborative approach is crucial in addressing them. Individuals and organizations within the community must work together, share information, and collaborate on solutions to tackle cyber threats.<br>
@@ -49,4 +51,4 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 {% include chapter_events.html group=page.meetup-group %}
  
-[Join Our Whatsapp Group](https://chat.whatsapp.com/KAdpus4R0pb895ulC2jo8p) to know about more upcoming events and instant updates.
+
