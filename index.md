@@ -9,10 +9,12 @@ region: Asia
 
 ---
 
+## Update: Open Worldwide Application Security Project® (OWASP is renamed)
+
 ## Welcome
 
 
-We are delighted to <b>Welcome you to Our Community of Cyber Security Professionals</b> who are dedicated to making the online world a safer place. Our chapter is committed to promoting and advancing the mission of OWASP, which is to make software and web applications more secure.
+We are delighted to <b>Welcome you to Our Community of Cyber Security Professionals</b> who are dedicated to making the online world a safer place. Our chapter is committed to promoting and advancing the mission of Open Worldwide Application Security Project® (OWASP), which is to make software and web applications more secure.
 
 As a member of this chapter, you will have access to a wealth of resources, including training programs, workshops, and events, which are designed to help you develop your skills and stay up-to-date with the latest trends in cyber security.
 
@@ -39,7 +41,7 @@ By embracing these values, OUR community can work together to build a Safer and 
 
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project® (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
