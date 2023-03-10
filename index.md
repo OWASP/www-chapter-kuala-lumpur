@@ -9,6 +9,8 @@ region: Asia
 
 ---
 
+<img src="assets/images/OWASP-Combination-mark-r.png">
+
 ## Update: OWASP is now <h1>Open Worldwide Application Security Project®</h1>
 
 ## Welcome
