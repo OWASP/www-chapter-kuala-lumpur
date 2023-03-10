@@ -9,7 +9,7 @@ region: Asia
 
 ---
 
-## Update: Open Worldwide Application Security Project® (OWASP is renamed)
+## Update: OWASP is now <h1>Open Worldwide Application Security Project®</h1>
 
 ## Welcome
 
@@ -22,6 +22,7 @@ Our chapter is made up of professionals from diverse backgrounds and experiences
 By joining our community, you will have the opportunity to collaborate with like-minded individuals, share knowledge and best practices, and make a real difference in the fight against cyber threats.
 
 We encourage you to participate in our activities, share your expertise, and engage with other members of the chapter. Together, we can build a <b>Strong and Effective Community</b> that makes a positive impact on cyber security.
+
 
 <h2><i>We are looking forward to meeting you at our next event</i></h2>
 
