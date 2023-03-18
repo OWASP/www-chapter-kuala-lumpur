@@ -11,7 +11,7 @@ tags: OWASP Kuala Lumpur
 
 ### OWASP Kuala Lumpur Meetup April 2023
 
-<b> SAT, APR 8 · 11:00 AM SST</b></br>
+<b> SAT, APR 8 · 11:00 AM SST</b> </br>
 
 Our First Meetup for 2023 is scheduled
 
