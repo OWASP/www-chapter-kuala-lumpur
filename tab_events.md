@@ -4,7 +4,7 @@ displaytext: Events
 layout: col-sidebar
 tab: true
 order: 3
-tags: Chennai OWASP Chapter India
+tags: OWASP Kuala Lumpur
 ---
 
 ## Events
