@@ -1,7 +1,7 @@
 ---
 title: events
 displaytext: Events
-layout: null
+layout: col-sidebar
 tab: true
 order: 3
 tags: Chennai OWASP Chapter India
