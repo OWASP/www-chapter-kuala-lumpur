@@ -3,7 +3,7 @@ title: events
 displaytext: Events
 layout: col-sidebar
 tab: true
-order: 3
+order: 4
 tags: OWASP Kuala Lumpur
 ---
 
