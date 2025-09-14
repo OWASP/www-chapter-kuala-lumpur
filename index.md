@@ -5,7 +5,7 @@ title: OWASP Kuala Lumpur
 tags: OWASP Kuala Lumpur Malaysia
 level: 6
 meetup-group: 
-country: India
+country: Malaysia
 region: Asia
 
 ---
