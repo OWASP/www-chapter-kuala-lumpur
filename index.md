@@ -54,8 +54,9 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 
 
-## Upcoming Meetup Events
-
-{% include chapter_events.html group=page.meetup-group %}
+## Upcoming Events
+### (30 Sept - 2 Oct) OWASP KL Chapter at CyberDSA 2025
+KL Chapter will be hosting a booth located at the cybersecurity community section, hall 6, level 2, MITEC.
+Visit our booth to learn about OWASP mission, and Top 10 vulnerabilities for AI, and LLM. Grab our merchandise and stand a chance to earn the Malaysia Federation Challenge Coins.
  
 
