@@ -13,7 +13,7 @@ tags: OWASP Kuala Lumpur
 
 <b> WED, MAY 28 · 6:30 PM MYT </b>
 
-Our First Meetup in 2025 was scheduled at Asia Pacific University.
+Our First Meetup in 2025 was scheduled at Asia Pacific University, Bukit Jalil.
 
 Let's join together and build a Strong Cyber Security Community here in Kuala Lumpur, Malaysia.
 
@@ -25,5 +25,5 @@ Agenda:
 
 20 minutes will be used for QnA or other discussions for future meetups.
 
-Regards,</br>
+Regards,
 OWASP KL Chapter Team
