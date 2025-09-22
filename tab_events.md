@@ -18,10 +18,10 @@ Our First Meetup in 2025 was scheduled at Asia Pacific University, Bukit Jalil.
 Let's join together and build a Strong Cyber Security Community here in Kuala Lumpur, Malaysia.
 
 Agenda:
-1. Opening and Welcome talk - Chapter Leads (10 mins)
-2. Speaker 1: 60 mins session Foo-Bang Chan
+1. Opening and Welcome talk - Chapter Leader (10 mins)
+2. Speaker 1: 60 mins session by Foo-Bang Chan
 3. Break: 30 mins
-4. Speaker 2: 60 mins Ahmad Zaidi Said
+4. Speaker 2: 60 mins by Ahmad Zaidi Said
 
 20 minutes will be used for QnA or other discussions for future meetups.
 
