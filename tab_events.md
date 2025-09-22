@@ -9,18 +9,19 @@ tags: OWASP Kuala Lumpur
 
 ## Events
 
-### OWASP Kuala Lumpur Meetup April 2023
+### OWASP Kuala Lumpur Meetup May 2025
 
-<b> SAT, APR 8 · 11:00 AM SST </b>
+<b> WED, MAY 28 · 6:30 PM MYT </b>
 
-Our First Meetup for 2023 is scheduled
+Our First Meetup in 2025 was scheduled at Asia Pacific University.
 
 Let's join together and build a Strong Cyber Security Community here in Kuala Lumpur, Malaysia.
 
 Agenda:
 1. Opening and Welcome talk - Chapter Leads (10 mins)
-2. Speaker 1: 30 mins session (TBC)
-3. Speaker 2: 30 mins session [Rahul Lohar: Cyber Space in 2023 for All of us]
+2. Speaker 1: 60 mins session Foo-Bang Chan
+3. Break: 30 mins
+4. Speaker 2: 60 mins Ahmad Zaidi Said
 
 20 minutes will be used for QnA or other discussions for future meetups.
 
