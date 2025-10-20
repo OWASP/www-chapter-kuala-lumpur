@@ -1,0 +1,29 @@
+leaders:
+  - name: Milan Singh Thakur
+    email: milan@owasp.org
+    github: milanowasp
+  - name: Rahul Lohar
+    email: rahul.lohar@owasp.org
+  - name: Mohamad Nur Iman
+    email: mohamad.nuriman@owasp.org
+  - name: Danisy Eisyraf
+    email: danisy.eisyraf@owasp.org
+  - name: Alif Erfan
+    email: alif.erfan@owasp.org
+location:
+  country: Malaysia
+  country_code: MY
+  region: Asia
+  latitude: 3.1304314
+  longitude: 101.68707762611453
+name: OWASP Kuala Lumpur
+repositories:
+  - name: www-chapter-kuala-lumpur
+    url: https://github.com/OWASP/www-chapter-kuala-lumpur
+    description: OWASP Foundation Web Repository
+tags:
+  - OWASP
+  - Kuala
+  - Lumpur
+  - Malaysia
+website: https://owasp.org/www-chapter-kuala-lumpur
